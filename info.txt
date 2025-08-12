@@ -1,0 +1,10 @@
+What is a Job in Kubernetes?
+A Job runs a Pod until the task is completed.
+When the task finishes successfully, the Job is considered complete and will not restart unless configured.
+
+Common use cases:
+  Data processing scripts
+  Database migrations
+  Backup jobs
+
+  
